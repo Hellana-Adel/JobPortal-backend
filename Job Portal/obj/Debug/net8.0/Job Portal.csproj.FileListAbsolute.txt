@@ -1,0 +1,513 @@
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\appsettings.json
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.exe
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.deps.json
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.runtimeconfig.json
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.pdb
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.csproj.AssemblyReference.cache
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.AssemblyInfoInputs.cache
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.AssemblyInfo.cs
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.csproj.CoreCompileInputs.cache
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.Job Portal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.build.Job Portal.props
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Job Portal.props
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Job Portal.props
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\scopedcss\bundle\Job Portal.styles.css
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.csproj.Up2Date
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\refint\Job Portal.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.pdb
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.genruntimeconfig.cache
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\obj\Debug\net8.0\ref\Job Portal.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\beshoy.ehab\source\repos\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\appsettings.Development.json
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\appsettings.json
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.staticwebassets.endpoints.json
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.exe
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.deps.json
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.runtimeconfig.json
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Job Portal.pdb
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Azure.Core.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Azure.Identity.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Humanizer.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.ClientModel.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.CodeDom.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Text.Json.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Coptic\Job Portal\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.csproj.AssemblyReference.cache
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.AssemblyInfoInputs.cache
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.AssemblyInfo.cs
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.csproj.CoreCompileInputs.cache
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.MvcApplicationPartsAssemblyInfo.cs
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.MvcApplicationPartsAssemblyInfo.cache
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\scopedcss\bundle\Job Portal.styles.css
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.Job Portal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.Job Portal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.build.Job Portal.props
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Job Portal.props
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Job Portal.props
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.csproj.Up2Date
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.dll
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\refint\Job Portal.dll
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.pdb
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\Job Portal.genruntimeconfig.cache
+D:\Coptic\Job Portal\Job Portal\obj\Debug\net8.0\ref\Job Portal.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Job Portal.staticwebassets.endpoints.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Job Portal.exe
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Job Portal.deps.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Job Portal.runtimeconfig.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Job Portal.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Job Portal.pdb
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.csproj.AssemblyReference.cache
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.AssemblyInfoInputs.cache
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.AssemblyInfo.cs
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.sourcelink.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\scopedcss\bundle\Job Portal.styles.css
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.Job Portal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.Job Portal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.build.Job Portal.props
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Job Portal.props
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Job Portal.props
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.csproj.Up2Date
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\refint\Job Portal.dll
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.pdb
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\Job Portal.genruntimeconfig.cache
+C:\Users\HP\source\Repos\JobPortal-backend\Job Portal\obj\Debug\net8.0\ref\Job Portal.dll

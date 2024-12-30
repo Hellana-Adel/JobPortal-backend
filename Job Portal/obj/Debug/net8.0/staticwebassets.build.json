@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8j3RzU6YlsTIeX11aiz5sVJUqrviM+aMvSM9AHWn2lE=",
+  "Source": "Job Portal",
+  "BasePath": "_content/Job Portal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
